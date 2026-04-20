@@ -31,5 +31,5 @@ https://efekaankrhn.github.io/blockcutter-privacy/
 Coming soon on Google Play!
 
 
-## Update Log i
+## Update Log 
 Menu backgrounds have been fixed.
